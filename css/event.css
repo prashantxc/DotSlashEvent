@@ -9,11 +9,6 @@ a {
 	text-decoration: none !important;
 }
 
-.white {
-	color: rgba(255,255,255,1);
-
-}
-
 .navbar-brand:hover {
 	color: white;
 }
@@ -22,6 +17,18 @@ a {
 	color: white;
 }
 
+
+
+/*Basic Utilities*/
+.white {
+	color: rgba(255,255,255,1);
+
+}
+
 .font-san {
 	font-family: 'Titillium Web', sans-serif;
+}
+
+.grey {
+	color: #e6e6e6;
 }
