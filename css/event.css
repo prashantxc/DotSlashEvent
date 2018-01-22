@@ -1,0 +1,23 @@
+/* @author prashantxc */
+
+.nav-style {
+	background-color: #212121;
+	background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,1));
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.white {
+	color: rgba(255,255,255,1);
+
+}
+
+.navbar-brand:hover {
+	color: white;
+}
+
+.nav-link:hover {
+	color: white;
+}
