@@ -21,3 +21,7 @@ a {
 .nav-link:hover {
 	color: white;
 }
+
+.font-san {
+	font-family: 'Titillium Web', sans-serif;
+}
